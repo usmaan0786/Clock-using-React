@@ -1,3 +1,15 @@
+A software program that displays the current time to users in a visually appealing and interactive manner. This type of app can be used for a variety of purposes, such as time tracking, scheduling, or simply as a functional and decorative addition to a website or mobile app.
+
+To build a clock app with React, developers typically use the React library to create and manage the user interface components of the app. 
+
+The clock app will typically feature a large display that shows the current time in hours, minutes, and seconds. It may also include additional features such as a stopwatch or timer functionality.
+
+The development process for a clock app using React typically involves creating a set of reusable components that can be used to build the UI and handle user interactions. This approach allows for easy customization and extension of the app's functionality, making it a versatile and flexible tool for a wide range of applications.
+
+## User Interface
+
+![Screenshot 2023-04-28 104450](https://user-images.githubusercontent.com/72275107/235111431-0b3b2fed-65bb-46e7-a701-d12da697aaf3.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
